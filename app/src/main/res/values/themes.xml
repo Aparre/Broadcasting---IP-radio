@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.R4adio" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="Theme.R4Adio" parent="Base.Theme.R4Adio" />
+</resources>
